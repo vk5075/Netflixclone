@@ -44,6 +44,15 @@ nav button{
     margin-left: 10px;
     cursor: pointer;
 }
+nav button a{
+    border: 0;
+    outline: 0;
+    color:#fff ;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration: none;
+    
+}
 
 .language-btn{
     display: inline-flex;
